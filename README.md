@@ -1,3 +1,5 @@
+# hooks1
+
 # LPU Hooks — Campus Social Networking Platform
 
 A LinkedIn-inspired campus social networking platform engineered exclusively for the **Lovely Professional University (LPU)** student and faculty community.
@@ -195,4 +197,3 @@ Every post, image URL, and comment undergoes pre-publication moderation:
 - `GET /api/notifications` — Get user notifications & unread counter
 - `PATCH /api/notifications/:id/read` — Mark notification(s) as read
 - `GET /api/health` — System status & MongoDB connection state
-
